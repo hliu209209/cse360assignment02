@@ -1,6 +1,6 @@
 package cse360assignment02;
 
-public class AddingMachine {add parameter to total
+public class AddingMachine {add parameter to total 
   private int total;
   
   public AddingMachine () {
